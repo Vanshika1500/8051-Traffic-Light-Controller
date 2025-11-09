@@ -13,3 +13,4 @@ Implemented a smart traffic light controller using the 8051 microcontroller, fea
 - Automatic day/night mode selection using LDR input
 - Implemented delays and I/O port control
 - Fully simulated and tested in Proteus
+<img width="851" height="463" alt="image" src="https://github.com/user-attachments/assets/d47f891c-a35c-4bf4-ac5d-c685579b4354" />
